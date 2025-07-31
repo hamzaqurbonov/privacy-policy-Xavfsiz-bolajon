@@ -1,7 +1,7 @@
 # Maxfiylik Siyosati
-Oxirgi yangilanish: 06.03.2025
-# 1. Kirish
-"Xavfsiz Bolajon" mobil ilovasi (keyingi o‘rinlarda "Biz" yoki "Ilova") maktabgacha yoshdagi bolalar uchun mo‘ljallangan bo‘lib, faqat oldindan nazorat qilingan videolarni ko‘rsatadi. Ushbu maxfiylik siyosati ilovamiz qanday ma’lumotlarni yig‘ishi va ulardan qanday foydalanishini tushuntiradi.
+Охирги янгиланган сана: 2025-07-31
+# 1. Кириш
+Сизга «Сартарош ва Мижоз» иловасини тақдим этувчи сифатида, фойдаланувчиларимизнинг шахсий маълумотларини ҳимоя қилишни жуда жиддий қабул қиламиз. Ушбу махфийлик сиёсати иловада қандай маълумотлар йиғилиши, сақланиши ва қўлланилиши ҳақида маълумот беради.
 # 2. Yig‘iladigan ma’lumotlar
 Biz bolalar maxfiyligini himoya qilishga qat’iy rioya qilamiz va ilova quyidagi ma’lumotlarni yig‘ishi mumkin:
 # 2.1. Avtomatik yig‘iladigan texnik ma’lumotlar
